@@ -18,3 +18,6 @@ footer.site{border-top:3px solid #c9a24b;padding:1rem 2rem;background:#14151a;co
 font-size:.85rem;font-family:sans-serif}
 footer.site a{color:#c9a24b}.note{background:#fff8e1;border:1px solid #e6c86a;
 border-radius:6px;padding:.8rem 1rem;font-family:sans-serif;font-size:.9rem;margin:1.5rem 0}
+figure.card{margin:0}
+figure.card img{height:auto;object-fit:contain}
+figure.card .body h2{font-size:1rem}
